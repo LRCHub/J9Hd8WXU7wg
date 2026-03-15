@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "DIGGER",
+  "base_artist": "少女革命計画",
+  "createdAt": "2026-03-15T06:14:27.994957Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Devil Digger",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/01_Devil_Digger_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Death Angel & The Grave Digger",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/02_Death_Angel_&_The_Grave_Digger_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Grave Digger",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/03_The_Grave_Digger_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dirty Digger",
+      "artist": "TANKARD",
+      "has_synced": true,
+      "path": "select/04_Dirty_Digger_TANKARD.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "Kanye West feat. Jamie Foxx",
+      "has_synced": true,
+      "path": "select/05_Gold_Digger_Kanye_West_feat._Jamie_Foxx.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gold Digger (feat. Jamie Foxx)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/06_Gold_Digger_(feat._Jamie_Foxx)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Little Digger",
+      "artist": "Liz Phair",
+      "has_synced": true,
+      "path": "select/07_Little_Digger_Liz_Phair.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Grave Digger",
+      "artist": "Rancid",
+      "has_synced": true,
+      "path": "select/08_Grave_Digger_Rancid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gold Digger (Kraddy remix)",
+      "artist": "Kanye West",
+      "has_synced": false,
+      "path": "select/09_Gold_Digger_(Kraddy_remix)_Kanye_West.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/10_Gold_Digger_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gold Digger (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/11_Gold_Digger_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "Kanye West, Jamie Foxx",
+      "has_synced": true,
+      "path": "select/12_Gold_Digger_Kanye_West,_Jamie_Foxx.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lone Digger",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/13_Lone_Digger_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Grave Digger",
+      "artist": "Blues Saraceno",
+      "has_synced": true,
+      "path": "select/14_Grave_Digger_Blues_Saraceno.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lone Digger (Explicit)",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/15_Lone_Digger_(Explicit)_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "Yusuf / Cat Stevens",
+      "has_synced": true,
+      "path": "select/16_Gold_Digger_Yusuf___Cat_Stevens.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rebellion (Feat Chris Boltendahl of Grave Digger)",
+      "artist": "Van Canto",
+      "has_synced": true,
+      "path": "select/17_Rebellion_(Feat_Chris_Boltendahl_of_Grave_Digger)_Van_Canto.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "EPMD",
+      "has_synced": false,
+      "path": "select/18_Gold_Digger_EPMD.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gold Digger",
+      "artist": "EPMD",
+      "has_synced": true,
+      "path": "select/19_Gold_Digger_EPMD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DIGGER",
+      "artist": "少女革命計画, 罪十罰, biz, ZERA, 氷夏至, 美古途, 夕凪機",
+      "has_synced": false,
+      "path": "select/pl_01_DIGGER_少女革命計画,_罪十罰,_biz,_ZERA,_氷夏至,_美古途,_夕凪機.txt"
+    }
+  ]
+}
